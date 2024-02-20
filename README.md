@@ -1,5 +1,7 @@
 ### Hi There 👋 
-
+<h3>📲CONTACT</h3>
+<br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>william-pereira95@hotmail.com
 <br>
 <br>
 
@@ -13,7 +15,7 @@
 <br>
 <h2>Github Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![WiilStats](https://github-readme-stats.vercel.app/api?username=wiilhp22&show_icons=true&theme=highcontrast)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiilhp22)](https://github.com/anuraghazra/github-readme-stats)
